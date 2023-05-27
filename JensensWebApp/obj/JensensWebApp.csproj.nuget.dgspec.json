@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hanne\\source\\repos\\JensensWebApp\\JensensWebApp\\JensensWebApp.csproj": {}
+    "C:\\Users\\Hanne\\OneDrive\\Skrivbord\\JENSEN\\HuvudProject\\JensenWebApplication\\JensensWebApp\\JensensWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hanne\\source\\repos\\JensensWebApp\\JensensWebApp\\JensensWebApp.csproj": {
+    "C:\\Users\\Hanne\\OneDrive\\Skrivbord\\JENSEN\\HuvudProject\\JensenWebApplication\\JensensWebApp\\JensensWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hanne\\source\\repos\\JensensWebApp\\JensensWebApp\\JensensWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Hanne\\OneDrive\\Skrivbord\\JENSEN\\HuvudProject\\JensenWebApplication\\JensensWebApp\\JensensWebApp.csproj",
         "projectName": "JensensWebApp",
-        "projectPath": "C:\\Users\\Hanne\\source\\repos\\JensensWebApp\\JensensWebApp\\JensensWebApp.csproj",
+        "projectPath": "C:\\Users\\Hanne\\OneDrive\\Skrivbord\\JENSEN\\HuvudProject\\JensenWebApplication\\JensensWebApp\\JensensWebApp.csproj",
         "packagesPath": "C:\\Users\\Hanne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hanne\\source\\repos\\JensensWebApp\\JensensWebApp\\obj\\",
+        "outputPath": "C:\\Users\\Hanne\\OneDrive\\Skrivbord\\JENSEN\\HuvudProject\\JensenWebApplication\\JensensWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hanne\\AppData\\Roaming\\NuGet\\NuGet.Config",
